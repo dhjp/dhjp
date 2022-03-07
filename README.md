@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-       src="https://lh3.googleusercontent.com/rKs6p14DptOwR4gZxuG8LSropa-rPAgRTc-Jr-z4BhH5iAjTr-MgdYWYnnc0ilRmzGInBO9oxf0PUHhyIe_mvu0Bo585ICvUXrqS5kSN4joTKGPD0oEfbgmBpWRTscwT_z6qMU1zvTXbrLUjbrN1lkDlADmJeR_D_ECHAMXD6yBG8s4zEaJI47mWTtIVmmdqWvjp4vTaXY6be040X1u9-DtxZVZipAKTQzeXo4EF3OOQeoGNxZcIYHHE-5B8z9IJCwSBvX4UAjAMc5QjYUEeSneRnJC-aCION5eZPWJSODugabsRWQWFrKshVGYZ7JyvaYbs0qR-Mt2b6WZRE5hDOIUwpg0AATRX0Atu-4U5amng2ExqF7njBWVD46j29tjK-ipNGG9FbHpKCTW9WYK1QOEYoxZfyRhbHPni-cJWzcPgj75ziHrPw0qZtIWgbEb79n6kOhRaKxZoIc6dP6I5g9u1JFaE65a1WbGzA07iJFDcos1vMQQNZA8xggKW5TK11S6KipX2lkoAvRBfxR-sjsODFpeNlDtr_N1qOBdwtvbFwI-OfbzWf5A7Bl26eDI3Ixuf7-W5zgk9B_g_0ooIN1GKWkqf0Mrcl7OyQjOv3ChNFuKuAmEfkZQX1gMYzEP5TI_dBQ9Y0ewcJDStgFVd1l1VlvOa8L6KVjMY_pQut3p5jUENOlwi91unEZfYuhINp4vYgdnfjvMnmmbypDhhHiA=s757-no?authuser=0">
+       src="https://pbs.twimg.com/media/FIaMOiuUUAAoA7L?format=jpg&name=large">
 </div>
   
   ##
